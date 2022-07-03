@@ -102,5 +102,5 @@ template_list = {
         "cause_effect",
         "…why? C1 or C2",
         "choose",
-    ]
+    ],
 }
